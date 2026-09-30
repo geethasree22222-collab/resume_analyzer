@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer — Automated Resume Review",
+  "description": "Automate resume screening and career document analysis with intelligent workflow automation powered by n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
